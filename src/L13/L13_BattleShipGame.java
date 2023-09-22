@@ -7,10 +7,10 @@ import java.awt.event.ActionListener;
 import java.util.Random;
 
 public class L13_BattleShipGame {
-    private static char EMPTY = '-';
-    private static char MISS = '*';
-    private static char HIT = 'x';
-    private static char TARGET = 'T';
+    private static final char EMPTY = '-';
+    private static final char MISS = '*';
+    private static final char HIT = 'x';
+    private static final char TARGET = 'T';
     private static char[][] board;
     private static JButton[][] buttons;
     private static int hits = 0;
