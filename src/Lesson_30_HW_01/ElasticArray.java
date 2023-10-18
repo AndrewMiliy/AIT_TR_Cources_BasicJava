@@ -53,5 +53,3 @@ public class ElasticArray<T> {
         elements = Arrays.copyOf(elements, newSize);
     }
 }
-
-
