@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5011164a-08de-4873-aa95-b5e10435e16e" name="Changes" comment="add L13 Battle Ship Game">
+      <change afterPath="$PROJECT_DIR$/src/Lesson_28_HW_01/Dictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_28_HW_01/DictionaryApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/L13/L13_BattleShipGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/L13/L13_BattleShipGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/L13/L13_BattleShipGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,12 +40,17 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/AITCourcesProjects/Maze/MazeGame/src/L13&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;D:/AITCourcesProjects/AIT_TR_Cources/AIT_TR_Cources/src/Main.java&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Lesson_28_HW_01" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -66,16 +74,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add L13 Battle Ship Game" />
     <option name="LAST_COMMIT_MESSAGE" value="add L13 Battle Ship Game" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
